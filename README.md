@@ -7,9 +7,9 @@
 
 - 💭 My dream is **Becoming a Game Developer**
 
-- 📫 How to reach me **fahri**
+- 📫 How to reach me <br>**fahriisrahadiputra@gmail.com**
 
-- 🔥 Fun fact **I love myself**
+- 🔥 Fun fact: <br>**I love myself**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
